@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void add(){
         //method added
+        //changes done after clone 
     }
 }
