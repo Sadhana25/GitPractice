@@ -17,4 +17,6 @@ public class MainActivity extends AppCompatActivity {
         //method added
         //changes done after clone 
     }
+
+    // created branch from master for register feature 
 }
