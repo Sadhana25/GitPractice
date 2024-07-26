@@ -20,7 +20,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // feature branch created for  adding login feature
-    public void login(){
-        Toast.makeText(this, "login ", Toast.LENGTH_SHORT).show();
+    public void sign(){
+        Toast.makeText(this, "signing ", Toast.LENGTH_SHORT).show();
     }
+    
 }
