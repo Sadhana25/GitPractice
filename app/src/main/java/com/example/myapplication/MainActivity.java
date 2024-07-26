@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //created dev branch from master 
+
+    public void dividea(){
+        // method addeed in dev-feature a branch 
+    }
 }
