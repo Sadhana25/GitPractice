@@ -3,6 +3,7 @@ package com.example.myapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -18,5 +19,8 @@ public class MainActivity extends AppCompatActivity {
         //changes done after clone 
     }
 
-    // feature branch created for  adding login feature 
+    // feature branch created for  adding login feature
+    public void login(){
+        Toast.makeText(this, "login ", Toast.LENGTH_SHORT).show();
+    }
 }
