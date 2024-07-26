@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // created branch from master for register feature 
+
+    public void mul(){
+        //added line in register
+    }
 }
