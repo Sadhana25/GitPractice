@@ -19,4 +19,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //created dev branch from master 
+    public void substring(){
+        // method added to calculate substring 
+    }
 }
